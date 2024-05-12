@@ -7,13 +7,13 @@ Este proyecto implementa una calculadora simple en Python con funciones para sum
 1. **Clonar el Repositorio:** Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/DiegoNolasco3/CALCULADORA.git
     ```
 
 2. **Navegar al Directorio:** Navega al directorio del proyecto:
 
     ```bash
-    cd tu_repositorio
+    cd CALCULADORA
     ```
 
 3. **Ejecutar la Calculadora:** Ejecuta el archivo `main.py` para iniciar la calculadora:
