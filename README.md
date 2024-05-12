@@ -1,24 +1,24 @@
-# Calculadora Python
+# Calculadora en Python
 
-Este es un proyecto de calculadora simple en Python que incluye las operaciones básicas de suma, resta, multiplicación, división y una función de suma avanzada.
+Este proyecto implementa una calculadora simple en Python con funciones para sumar, restar, multiplicar, dividir y realizar sumas avanzadas.
 
-## Instrucciones de Uso
+## Instrucciones de Ejecución
 
 1. **Clonar el Repositorio:** Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
-    ```
+    ```bash
     git clone https://github.com/tu_usuario/tu_repositorio.git
     ```
 
 2. **Navegar al Directorio:** Navega al directorio del proyecto:
 
-    ```
+    ```bash
     cd tu_repositorio
     ```
 
 3. **Ejecutar la Calculadora:** Ejecuta el archivo `main.py` para iniciar la calculadora:
 
-    ```
+    ```bash
     python main.py
     ```
 
@@ -44,4 +44,3 @@ Este es un proyecto de calculadora simple en Python que incluye las operaciones 
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
